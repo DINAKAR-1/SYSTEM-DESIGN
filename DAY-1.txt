@@ -1,0 +1,24 @@
+Day 1: Client-Server Architecture
+
+Client: A machine or software that initiates a request for resources (e.g., browser, app).
+Server: A machine or software that responds to the client's request (e.g., web server, database server).
+
+Web Browsing: Your browser (client) requests a webpage from a web server.
+Database Queries: A client app requests data from a database server
+
+Communication Protocols in Client-Server Architecture
+
+HTTP/HTTPS: Used for web browsing and secure web applications.
+WebSocket: For real-time, bi-directional communication.
+TCP: Ensures reliable communication with guaranteed delivery and order.
+UDP: Focuses on speed and is used for applications that prioritize low latency over reliability.
+
+
+osi 
+
+1. Application Layer --communicarion protocs
+2. Transport Layer -- transport portocls ensure safe transportation
+3. Internet Layer -- routing of packets 
+
+they packed into layers just because of thier functionality 
+no other aim 
